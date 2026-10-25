@@ -84,7 +84,7 @@ The build reuses the toy car's motor and gearbox beneath the clock shell.
 ### Wiring illustration
 
 > [!WARNING]
-> This illustration is a visual reference only and **does not match this project's wiring**. It shows two motors, extra ESP32 GPIO connections, and a 7.4 V two-cell battery. Shuttumani's current firmware uses one motor on GPIO 25/26/27, and the project documents a single 3.7 V cell. Do not copy the diagram's pin or power connections. Use the pin map above and [wiring guide](docs/wiring.md).
+> This illustration is a visual reference only and **does not match this project's wiring**. It shows two motors, extra ESP32 GPIO connections, and a 7.4 V two-cell battery. Shuttumani's current firmware uses one motor on GPIO 25/26/27, and the project documents a single 3.7 V cell.
 
 <div align="center">
   <img src="images/wire-diagram.jpeg" alt="Reference wiring illustration; differs from Shuttumani's one-motor firmware and documented battery setup" width="100%">
