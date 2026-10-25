@@ -38,6 +38,12 @@ The build reuses the toy car's motor and gearbox beneath the clock shell.
   <sub>Motor and wiring</sub> · <sub>Gear train</sub>
 </div>
 
+<div align="center">
+  <img src="images/in-between-scene.jpeg" alt="L298N motor driver being positioned on the open toy chassis during assembly" width="72%">
+  <br>
+  <sub>Assembly in progress: positioning the motor driver on the chassis</sub>
+</div>
+
 ## What it does
 
 - Drives one DC motor with an ESP32 and L298N.
