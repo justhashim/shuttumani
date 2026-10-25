@@ -1,0 +1,35 @@
+# Arduino IDE and CLI build output
+build/
+out/
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.a
+*.class
+*.tmp
+*.bak
+
+# Arduino IDE local project settings
+.arduinoIDE/
+.arduino/
+arduino-*.yaml
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
